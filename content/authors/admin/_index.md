@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 朱邦硕
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhu Bang Shuo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bangshuo
+last_name: Zhu
 
 # Status emoji
 status:
@@ -20,109 +20,98 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student @ CSE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of New South Wales
+    url: https://www.unsw.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bang.shuo@me.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ZhuBangShuo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/bangshuo-zhu/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering
+  - Finance
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of New South Wales
+    date_start: 2025
+    date_end: 2028
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of (Software) Engineering Honours
+    institution: The University of Sydney
+    date_start: 2019
+    date_end: 2024
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Honours Class I
+  - area: Bachelor of Arts (Philosophy)
+    institution: The University of Sydney
+    date_start: 2019
+    date_end: 2024
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Product Development & Technical Support Lead
+    company_name: Lessn
+    company_url: 'https://lessn.io/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-02
+    date_end: 2025-06
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      At the beginning of 2024, I fully transitioned to the role of Product Development & Technical Support Lead at Lessn. In this capacity, I ensured that the direction of product development aligned with business objectives. I wrote product briefs, set priorities for the development team, and created financial reports to identify key insights on usage and revenue.
+
+      As Lessn was a start-up, all of us wore many hats; I was also in charge of pre-deployment testing, product health monitoring, and customer relationship management.
+
+      As the primary pre-deployment tester, I was in charge of ensuring that every build deployed to the user acceptance testing environment met requirements and was bug-free before it was deployed to production. I was also in charge of updating the acceptance test criteria as new features were added or extant features were modified.
+
+      As the primary monitor of platform health, in the case of an alarm I was in charge of triaging the issue, investigating, creating, and ideating a fix - in cooperation with the development team - and testing the fix before it was deployed. I was the first to respond to alarms and the first point of contact for customers experiencing issues.
+
+      Along with being the first point of customer support contact, I also had responsibilities in customer relationship management. In cases where user experience was negatively impacted, I was in charge of notifying customers through Hubspot and providing technical support where necessary.
+
+      This varied set of responsibilities came together to form a uniquely rewarding role that required technical knowledge, deep familiarity with both the business aspects of the product as well as the technical aspects of the codebase, and strength in face-to-face communication and professional writing.
+  - position: Junior Full-Stack Software Developer
+    company_name: Lessn
+    company_url: 'https://lessn.io/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03
+    date_end: 2024-02
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      First in-house developer at Lessn.
+
+      I worked on the full stack, building the platform frontend on Vue.js using the Ant Design framework, with some work encompassing residual code written with blade templates on php. Backend work entailed working with proprietary Promis code to create and manage API controllers and Mongo queries. AWS lambdas and state machines were integrated in the infrastructure.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Node.js
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+      - name: Vue.js
         description: ''
         percent: 40
+        icon: code-bracket
+      - name: MongoDB
+        description: ''
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -144,9 +133,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Mandarin Chinese
+    percent: 80
+  - name: French
     percent: 25
 
 # Awards.
@@ -154,33 +143,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Project - Global Finalist ($10000 prize)
+    url: https://developer.ibm.com/callforcode/
+    date: '2021'
+    awarder: IBM Call for Code Hackathon
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I along with a team of university peers registered in the 2021 ANZ Call for Code Hackathon to pitch a sustainable, open-source technology solution to address social and humanitarian issues. Our project "Honestly" is a Google browser extension designed to improve supply chain transparency and trust for online shoppers. Our final project submission placed fourth in the world, winning $10 000 dollars! This announcement can be viewed [here](https://developer.ibm.com/blogs/honestly-leads-consumers-to-more-ethical-purchases/).
+  - title: Project - Global Finalist ($10000 prize)
+    url: https://www2.fundsforngos.org/education/call-for-code-2021-education-innovation-case-competition/
+    date: '2021'
+    awarder: Call for Code Education Innovation Case Competition
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I along with a team of university peers registered in the 2021 Call for Code Education Innovation Case Competition to design an innovative technology solution that addresses a problem aligned to achieving accessible and equitable quality education. Our project ULiO is a low-tech solution to language learning geared towards refugees and low-income immigrants with no steady access to smartphones or computers. I am very happy to announce that our project placed second worldwide, winning $10 000 dollars! This announcement can be viewed [here](https://www.linkedin.com/posts/usyd-business_congratulations-to-undergraduate-students-activity-6892617570839601152-SUom/).
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bangshuo Zhu is a PhD student at the UNSW School of Computer Science and Engineering. He is supervised by Scientia Professor [Jingling Xue](https://cgi.cse.unsw.edu.au/~jingling/) of the Programming Languages and Compilers research group. His research interests include membership inference attacks against large language models, applications of large language models in finance, and explainable AI.
