@@ -3,7 +3,7 @@
 title: 朱邦硕
 
 # Name pronunciation (optional)
-name_pronunciation: Zhu Bang Shuo
+name_pronunciation: Zhū Bāng Shuò
 
 # Full name (for SEO)
 first_name: Bangshuo
@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: 📧
     url: 'mailto:bang.shuo@me.com'
     label: E-mail Me
   - icon: brands/github
