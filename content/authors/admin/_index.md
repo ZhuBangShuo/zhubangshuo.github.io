@@ -11,7 +11,7 @@ last_name: Zhu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,8 +71,8 @@ work:
     company_name: Lessn
     company_url: 'https://lessn.io/'
     company_logo: ''
-    date_start: 2024-02
-    date_end: 2025-06
+    date_start: 2024-02-01
+    date_end: 2025-06-01
     summary: |2-
       At the beginning of 2024, I fully transitioned to the role of Product Development & Technical Support Lead at Lessn. In this capacity, I ensured that the direction of product development aligned with business objectives. I wrote product briefs, set priorities for the development team, and created financial reports to identify key insights on usage and revenue.
 
@@ -89,8 +89,8 @@ work:
     company_name: Lessn
     company_url: 'https://lessn.io/'
     company_logo: ''
-    date_start: 2023-03
-    date_end: 2024-02
+    date_start: 2023-03-01
+    date_end: 2024-02-01
     summary: |
       First in-house developer at Lessn.
 
