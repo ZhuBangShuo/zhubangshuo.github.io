@@ -48,8 +48,8 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: University of New South Wales
-    date_start: 2025
-    date_end: 2028
+    date_start: 2025-02-01
+    date_end: 2028-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -57,14 +57,15 @@ education:
       url: 'https://example.com'
   - area: Bachelor of (Software) Engineering Honours
     institution: The University of Sydney
-    date_start: 2019
-    date_end: 2024
+    date_start: 2019-02-01
+    date_end: 2024-10-01
     summary: |
       Honours Class I
   - area: Bachelor of Arts (Philosophy)
     institution: The University of Sydney
-    date_start: 2019
-    date_end: 2024
+    date_start: 
+    date_end: 2019-02-01
+    date_end: 2024-10-01
     summary: |
 work:
   - position: Product Development & Technical Support Lead
@@ -144,17 +145,17 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Project - Global Finalist ($10000 prize)
-    url: https://developer.ibm.com/callforcode/
-    date: 2021
-    awarder: IBM Call for Code Hackathon
-    summary: |
-      I along with a team of university peers registered in the 2021 ANZ Call for Code Hackathon to pitch a sustainable, open-source technology solution to address social and humanitarian issues. Our project "Honestly" is a Google browser extension designed to improve supply chain transparency and trust for online shoppers. Our final project submission placed fourth in the world, winning $10 000 dollars! This announcement can be viewed [here](https://developer.ibm.com/blogs/honestly-leads-consumers-to-more-ethical-purchases/).
-  - title: Project - Global Finalist ($10000 prize)
     url: https://www2.fundsforngos.org/education/call-for-code-2021-education-innovation-case-competition/
-    date: 2021
+    date: '2021-11-01'
     awarder: Call for Code Education Innovation Case Competition
     summary: |
       I along with a team of university peers registered in the 2021 Call for Code Education Innovation Case Competition to design an innovative technology solution that addresses a problem aligned to achieving accessible and equitable quality education. Our project ULiO is a low-tech solution to language learning geared towards refugees and low-income immigrants with no steady access to smartphones or computers. I am very happy to announce that our project placed second worldwide, winning $10 000 dollars! This announcement can be viewed [here](https://www.linkedin.com/posts/usyd-business_congratulations-to-undergraduate-students-activity-6892617570839601152-SUom/).
+  - title: Project - Global Finalist ($10000 prize)
+    url: https://developer.ibm.com/callforcode/
+    date: '2021-10-01'
+    awarder: IBM Call for Code Hackathon
+    summary: |
+      I along with a team of university peers registered in the 2021 ANZ Call for Code Hackathon to pitch a sustainable, open-source technology solution to address social and humanitarian issues. Our project "Honestly" is a Google browser extension designed to improve supply chain transparency and trust for online shoppers. Our final project submission placed fourth in the world, winning $10 000 dollars! This announcement can be viewed [here](https://developer.ibm.com/blogs/honestly-leads-consumers-to-more-ethical-purchases/).
 ---
 
 ## About Me
