@@ -46,25 +46,26 @@ interests:
   - Finance
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD @ School of Computer Science and Engineering
     institution: University of New South Wales
     date_start: 2025-02-01
     date_end: 2028-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by Scientia Professor [Jingling Xue](https://cgi.cse.unsw.edu.au/~jingling/) of the Programming Languages and Compilers research group. Currently researching membership inference attacks against large language models, applications of large language models in finance, and explainable AI.
   - area: Bachelor of (Software) Engineering Honours
     institution: The University of Sydney
     date_start: 2019-02-01
     date_end: 2024-10-01
     summary: |
       Honours Class I
+
+      Thesis: _What You See Is Not Always What You Get: An Empirical Study of Code Comprehension by Large Language Models_. Supervised by [Professor Huaming Chen](https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en&oi=sra).
+    button:
+      text: 'Read Thesis'
+      url: 'https://arxiv.org/abs/2412.08098'
   - area: Bachelor of Arts (Philosophy)
     institution: The University of Sydney
-    date_start: 
-    date_end: 2019-02-01
+    date_start: 2019-02-01
     date_end: 2024-10-01
     summary: |
 work:
