@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: email.svg
+  - icon: custom/email
     url: 'mailto:bang.shuo@me.com'
     label: E-mail Me
   - icon: brands/github
@@ -46,7 +46,7 @@ interests:
   - Finance
 
 education:
-  - area: PhD @ School of Computer Science and Engineering
+  - area: PhD - School of Computer Science and Engineering
     institution: University of New South Wales
     date_start: 2025-02-01
     date_end: 2028-06-01
@@ -57,7 +57,7 @@ education:
     date_start: 2019-02-01
     date_end: 2024-10-01
     summary: |
-      Honours Class I
+      **Honours Class I**
 
       Thesis: _What You See Is Not Always What You Get: An Empirical Study of Code Comprehension by Large Language Models_. Supervised by [Professor Huaming Chen](https://scholar.google.com/citations?user=3-qRVLUAAAAJ&hl=en&oi=sra).
     button:

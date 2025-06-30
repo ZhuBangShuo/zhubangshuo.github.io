@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: dark
-  color: emerald
+  # color: emerald
+  color: red
 
 # SEO
 marketing:
